@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cmtdly
 - 👀 I’m interested in threat intel python scripts and Jupyter walkthroughs
-- 🌱 I’m currently learning PANDAS and re
+- 🌱 I’m currently working on building a REST API for an multi-base Airtable program in Django
 - 💞️ I’m looking to collaborate on ways to make TI easier for everyone
 - 📫 How to reach me : here!
 
